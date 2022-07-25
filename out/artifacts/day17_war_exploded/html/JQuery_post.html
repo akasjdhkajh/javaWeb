@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 200px;
+            height: 200px;
+            border: 1px solid;
+        }
+    </style>
+    <script src="/day17/js/jQuery v3.6.0min.js"></script>
+</head>
+<body>
+    <div>
+        我是孙悟空
+    </div>
+<button onclick="fun2()">改变</button>
+</body>
+<script>
+    function fun2(){
+        $.post("/day17/s1",{"content":$("div").text()},function (d){
+            $("div").html(d)
+        })
+    }
+
+</script>
+</html>

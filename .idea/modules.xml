@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Day18/Day18.iml" filepath="$PROJECT_DIR$/../Day18/Day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day12/day12.iml" filepath="$PROJECT_DIR$/../day12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day13_1/day13_1.iml" filepath="$PROJECT_DIR$/../day13_1/day13_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day14_1/day14_1.iml" filepath="$PROJECT_DIR$/../day14_1/day14_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day15/day15.iml" filepath="$PROJECT_DIR$/../day15/day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day16/day16.iml" filepath="$PROJECT_DIR$/../day16/day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day17/day17.iml" filepath="$PROJECT_DIR$/../day17/day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gouwuche/gouwuche.iml" filepath="$PROJECT_DIR$/../gouwuche/gouwuche.iml" />
+    </modules>
+  </component>
+</project>
